@@ -1,0 +1,181 @@
+body {
+	background-color: #141414;
+	margin-inline: 2%;
+}
+
+.logo {
+	width: 75%;
+	background-color: #141414;
+}
+
+.logodiv {
+	background-color: #141414;
+	width: 15%;
+	display: flex;
+	flex-direction: row;
+	justify-content: flex-start;
+}
+
+.navtext {
+	display: flex;
+	justify-content: flex-start;
+}
+
+.container-fluid {
+	display: flex;
+	justify-content: flex-start;
+	background-color: #141414;
+}
+header nav {
+	background-color: #141414;
+}
+
+.navbar-nav {
+	margin-top: 0.5%;
+}
+
+.navbar-brand {
+	margin: 0;
+	padding: 0;
+}
+
+.navbar {
+	padding: 0;
+	background-color: #141414;
+}
+
+p {
+	color: white;
+}
+
+.kids {
+	font-size: small;
+}
+
+.avatar {
+	width: 2rem;
+	height: 2rem;
+	padding: 0;
+	margin: 0;
+}
+.right-icons {
+	display: flex;
+	justify-content: flex-end;
+	gap: 1rem;
+}
+
+.bu {
+	display: inline-flex;
+}
+
+i {
+	color: white;
+}
+
+.btn {
+	background-color: #141414;
+}
+
+h3 {
+	color: white;
+	margin-left: 1.5rem;
+	margin-bottom: 2rem;
+}
+
+.container1 {
+	display: flex;
+	flex-direction: row;
+	gap: 1rem;
+	margin-top: 2rem;
+}
+
+.dropdown {
+	display: flex;
+	background-color: #141414;
+}
+
+section {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+
+.container2 {
+	padding-right: 0.5%;
+}
+
+.ciao {
+	width: auto;
+	padding: 0;
+	margin-left: 2rem;
+	display: flex;
+	flex-direction: row;
+	gap: 0.5rem;
+}
+
+.imgrow {
+	width: 14.5rem;
+	height: 10rem;
+}
+
+.container {
+	margin: 0;
+	padding: 0;
+}
+
+h5 {
+	color: white;
+	margin-left: 1.5rem;
+	margin-top: 1.5rem;
+	margin-bottom: 1rem;
+}
+
+footer {
+	width: 100%;
+	display: flex;
+	justify-content: center;
+}
+
+.footer {
+	width: 50%;
+	margin-top: 5%;
+}
+
+.ciao2 {
+	display: flex;
+	gap: 1rem;
+}
+
+.bog {
+	color: gray;
+}
+
+.aaa {
+	text-decoration: none;
+	color: white;
+}
+
+.eee {
+	margin-bottom: 2rem;
+}
+
+.border {
+	border: 1px solid white;
+	padding: 0.3rem;
+	margin-bottom: 1.5rem;
+}
+
+h6 {
+	font-size: 0.7rem;
+}
+
+.icons {
+	display: flex;
+	gap: 0;
+}
+
+.icona {
+	border: 1px solid white;
+	padding-block: 0.3rem;
+	padding-inline: 0.8rem;
+}
